@@ -1,0 +1,6 @@
+.kitchen/
+.terraform/
+Gemfile.lock
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.d/
